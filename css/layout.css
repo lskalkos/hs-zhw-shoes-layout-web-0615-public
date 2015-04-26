@@ -24,4 +24,20 @@
 
 /* Posititoning Classes */
 
+.two-column-span{
+  float: left;
+  margin: 0% 0% 0%;
+  width: 66.66%;
+}
+
+.one-column-span{
+  float: left;
+  margin: 0% 0% 0% 1%;
+  width: 32.33%;
+}
+
+.margin-top-20px{
+  margin-top: 20px;
+}
+
 
